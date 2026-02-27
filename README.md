@@ -26,5 +26,5 @@ Este proyecto consiste en un sistema distribuido de dos nodos diseñado para el 
 ## Bibliografía y referencias
 * Arduino. (2025). *ESP8266 Arduino core’s documentation*.
 * Espressif Systems. (2023). *ESP8266 hardware design guidelines*.
-* Mocencahua Mora, D. (2026). *Manual de usuario y documentación del sistema domótico*.
+* Mocencahua Parraguirre, D. (2026). *Manual de usuario y documentación del sistema domótico*.
 * ThingPulse. (2024). *ESP8266 OLED driver for SSD1306 displays library documentation*.
